@@ -1,6 +1,0 @@
-= Introduction
-
-A brief introduction to these notes
-
-== PREREQUISITES: 
-* Have python3 installed on your computer 

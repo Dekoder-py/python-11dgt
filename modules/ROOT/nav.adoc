@@ -1,2 +1,1 @@
-* xref:intro.adoc[]
 * xref:lesson-one.adoc[Variables & Data Types]
