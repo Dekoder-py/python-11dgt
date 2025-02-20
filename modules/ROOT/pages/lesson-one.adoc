@@ -1,4 +1,4 @@
-= Introduction to variables & data types
+= Variables & Data Types
 
 A variable is a container that holds data. Python is a dynamically typed language, meaning you don't have to specify the type of data in a variable, and that data type can change later on.
 
