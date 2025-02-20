@@ -8,3 +8,15 @@ A variable is a container that holds data. Python is a dynamically typed languag
 * Boolean: True or False (case-sensitve) 
 * String: anything surrounded by quotes (" " or ' ')
 
+== Defining a variable
+To define a variable, you pass a name for the variable and a value for the variable:
+[,python]
+----
+my-var = 'This is a variable that holds a string'
+number = 19
+bool = True
+floaty = 1.2
+----
+
+== Changing the value of a variable
+You can change the value of any variable.
