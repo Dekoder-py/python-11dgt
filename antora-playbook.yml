@@ -1,6 +1,6 @@
 site:
-  title: 11COM Notes
-  start_page: commerce-notes::index.adoc
+  title: 11DGT Python Notes
+  start_page: 11dgt-notes::index.adoc
 content:
   sources:
     - url: .
@@ -15,3 +15,5 @@ ui:
         static_files:
         - .nojekyll
     - path: .nojekyll
+output:
+  dir: /Users/kyleb/asciidocs-notes/python-11dgt/docs

@@ -1,5 +1,5 @@
-name: commerce-notes
+name: 11dgt-notes
 version: ~
-title: 11COM Notes
+title: 11DGT Python Notes
 nav:
   - modules/ROOT/nav.adoc
