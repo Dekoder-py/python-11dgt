@@ -6,7 +6,7 @@ A variable is a container that holds data. Python is a dynamically typed languag
 * Integer: any whole number (a number without a decimal point), positive or negative
 * Float: any number with a decimal point, positive or negative
 * Boolean: True or False (case-sensitve) 
-* String: anything surrounded by quotes (" " or ' ')
+* String: anything surrounded by either double or single quotes (you must open and close a string with the same type of quotes)
 
 == Defining a variable
 To define a variable, you pass a name for the variable and a value for the variable:
