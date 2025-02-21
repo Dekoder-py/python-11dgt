@@ -1,1 +1,2 @@
 * xref:lesson-one.adoc[Variables & Data Types]
+* xref:lesson-two.adoc[Print statement]
