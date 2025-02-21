@@ -1,5 +1,7 @@
 = Print statements
+
 In python, you can output data to the console using:
+
 [,python]
 ----
 print('Hello, world!')
